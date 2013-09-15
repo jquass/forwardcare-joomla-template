@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="1.6" type="template" client="site">	
+
+<name>Forward Care Online</name>	
+
+<creationDate>Jun 2013</creationDate>	
+
+<author>Jon Quass</author>	
+
+<authorEmail>quassj@gmail.com</authorEmail>	
+
+<authorUrl>http://www.jonquass.com</authorUrl>	
+
+<copyright>Forward Care, LLC</copyright>	
+
+<license>GNU General Public License version 3 or later;</license>	
+
+<version>1.0.0</version>	
+
+<description>Created for Forward Care Online, eCommerce Website</description>	
+
+<files>		
+
+<folder>css</folder>		
+<folder>html</folder>		
+<folder>images</folder>		
+<folder>js</folder>		
+<folder>language</folder>		
+<filename>index.html</filename>		
+<filename>index.php</filename>		
+<filename>template_preview.png</filename>		
+<filename>template_thumbnail.png</filename>		
+<filename>templateDetails.xml</filename>		
+</files>	
+
+<positions>		
+
+<position>menuload</position>		
+<position>logo</position>		
+<position>position-0</position>		
+<position>position-1</position>		
+<position>position-2</position>		
+<position>position-7</position>		
+<position>position-4</position>	
+
+</positions>	
+
+<languages folder="language">		
+
+<language tag="en-GB">en-GB/en-GB.tpl_forwardcareonline.ini</language>	
+
+</languages>
+
+</extension>
